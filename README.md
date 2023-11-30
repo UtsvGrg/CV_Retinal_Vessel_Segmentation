@@ -27,6 +27,8 @@ Link to [Project Report](https://github.com/UtsvGrg/Retinal-Vessel-Segmentation/
 
 Link to [Presentation](https://github.com/UtsvGrg/Retinal-Vessel-Segmentation/blob/main/Retinal%20Vessel%20Segmentation.pdf)
 
+![Output](Other/Demo_Image.png)
+
 ### Methodology and Pre-processing
 
 ### Results
