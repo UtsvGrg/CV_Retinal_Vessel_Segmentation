@@ -7,6 +7,8 @@ Retinal vessel image segmentation is a pivotal challenge in medical image analys
 ### Dataset Description
 The CHASEDB1 dataset comprises 28 retinal images, representing both eyes of 14 participants. Each image is accompanied by two ground truth annotations ("1stHO" and "2ndHO") from different human observers, totaling 84 images. The file naming convention includes participant numbers (01-14), eye identifiers (L/R), and ground truth sources. This dataset is vital for training and evaluating retinal vessel segmentation models.
 
+![Output](Other/output.png)
+
 ### Setting up the code
 #### Install the requirements
 ```  
